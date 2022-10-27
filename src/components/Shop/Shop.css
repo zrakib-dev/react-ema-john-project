@@ -1,5 +1,4 @@
 .shop-container{
-    margin-top: 20px;
     display: grid;
     grid-template-columns: 4fr 1fr;
 }
@@ -8,4 +7,7 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 40px;
+}
+.cart-container{
+    background: rgba(255, 153, 0, 0.3);
 }
